@@ -1,2 +1,2 @@
-llprint("hello")
+print("hello")
 print("see")
